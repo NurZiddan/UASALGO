@@ -1,0 +1,10 @@
+Node = Type Mobil
+Key = Plat Nomor
+Langkah-langkah untuk menemukan data dengan nama SIGRA yaitu :
+ 1. Kita cari terlebih dahulu akar dari BST
+ 2. Setelah ditemukan akarnya yaitu HRV dengan plat nomor 5376 kita coba bandingkan dengan mobil berikutnya
+ 3. JIka nilai pada data yang kedua bernilai lebih besar maka data tersebut akan berada di node kiri,jika lebih kecil maka akan berada dinode kanan
+ 4. Selanjutnya coba bandingkan dengan data ketiga dan tentukan data ke tiga lebih besar atau lebih kecil,dst.
+ 5. Hasil akhir dari BST adalah Sigra berada di level ke 4.
+
+Kesimpulan dari BSTnya adalah Sigra berada di level 4 setelah Innova dan sebelum Panther
